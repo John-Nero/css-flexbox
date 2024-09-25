@@ -356,10 +356,10 @@ hr {
 
 .container-flexflow-row-nowrap {
     display: flex;
-    /* flex-direction: row; */
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    /* flex-wrap: nowrap; */
+    flex-wrap: nowrap;
     flex-flow: row nowrap;
     /* indiferente */
     background-color: antiquewhite;
